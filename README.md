@@ -6,7 +6,7 @@
 
 Welcome to the PhoneBook application readme. This document provides detailed information about the PhoneBook application, its features, how to compile and run the program, and other relevant instructions.
 
-![PhoneBook]("C:\Users\Devan Sareen\Desktop\one.png")
+![PhoneBook]("./Images/one.png")
 
 ## Table of Contents
 
