@@ -6,7 +6,7 @@
 
 Welcome to the PhoneBook application readme. This document provides detailed information about the PhoneBook application, its features, how to compile and run the program, and other relevant instructions.
 
-![PhoneBook]("/Images/one.png")
+![PhoneBook](/Images/one.png)
 
 ## Table of Contents
 
@@ -66,7 +66,7 @@ Once the application is running, you'll see the main menu with various options. 
 
 **Adding a Contact:**
 
-<img src="C:\Users\Devan Sareen\Desktop\second.png" alt=" Image" width="400" height="225">
+![PhoneBook](/Images/second.png)
 
 1. Select the "Add New" option.
 2. Enter the contact's details as prompted.
@@ -76,7 +76,7 @@ Once the application is running, you'll see the main menu with various options. 
 
 **Listing Contacts:**
 
-<img src="C:\Users\Devan Sareen\Desktop\third.png" alt=" Image" width="400" height="225">
+![PhoneBook](/Images/third.png)
 
 1. Select the "List of Contacts" option.
 2. View all contacts and their details.
@@ -85,7 +85,7 @@ Once the application is running, you'll see the main menu with various options. 
 
 **Modifying a Contact:**
 
-<img src="C:\Users\Devan Sareen\Desktop\fourth.png" alt=" Image" width="400" height="250">
+![PhoneBook](/Images/fourth.png)
 
 1. Select the "Modify Contacts" option.
 2. Enter the name of the contact to be modified.
@@ -95,7 +95,7 @@ Once the application is running, you'll see the main menu with various options. 
 
 **Searching for a Contact:**
 
-<img src="C:\Users\Devan Sareen\Desktop\fifth.png" alt=" Image" width="400" height="250">
+![PhoneBook](/Images/fifth.png)
 
 1. Select the "Search for Contacts" option.
 2. Enter the name of the contact you're looking for.
@@ -105,7 +105,7 @@ Once the application is running, you'll see the main menu with various options. 
 
 **Deleting  a Contact:**
 
-<img src="C:\Users\Devan Sareen\Desktop\sixth.png" alt=" Image" width="350" height="135">
+![PhoneBook](/Images/sixth.png)
 
 1. Select the "Delete Contact" option
 2. Enter the name of the contact you want to delete.
